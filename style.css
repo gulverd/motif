@@ -1,0 +1,159 @@
+@font-face{
+	font-family: bpg_mrgvlovani_caps_2010;
+	src: url(fonts/bpg_mrgvlovani_caps_2010.ttf);
+}
+#cata_images{
+	max-height: 375px;
+	height: 375px;
+	width: 100%;
+}
+.style-1 .banner-content > img {
+    width: 100%;
+    height: 310px;
+}
+#desing_a{
+	color:#444444;
+	font-family: bpg_mrgvlovani_caps_2010;
+	font-size: 12px;
+}
+#desing_a:hover{
+	color:#ffb535;
+	font-family: bpg_mrgvlovani_caps_2010;
+	font-size: 12px;
+}
+#designers_wrapper{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#cent_td{
+	text-align: center;
+	vertical-align: middle;
+}
+.fonta{
+	font-family: bpg_mrgvlovani_caps_2010;
+}
+#blogs_home_title{
+	font-family: bpg_mrgvlovani_caps_2010;
+}
+#c_fontsa{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+#c_fonts{
+	font-family: bpg_mrgvlovani_caps_2010;
+	text-align: left;
+	color:black;
+	padding: 0;
+}
+#c_fontsi h4{
+	font-family: bpg_mrgvlovani_caps_2010;
+	text-align: right;
+	color:black;
+	margin-right: 30px;
+}
+#c_fonts a{
+	font-family: bpg_mrgvlovani_caps_2010;
+	text-align: left;
+	color:black;
+}
+#slider_pic{
+	max-height: 800px;
+	height: 800px;
+}
+#partner_main_img{
+	border:1px solid #eee;
+}
+#browse{
+	width: 15%;
+}
+#furniture{
+	width: 35%;
+}
+.designera{
+	color: #4c4c4c;
+    font-size: 13px;
+    font-family: bpg_mrgvlovani_caps_2010;
+}
+.price a{
+	color: #4c4c4c;
+    font-size: 16px;
+    font-family: bpg_mrgvlovani_caps_2010;
+}
+.product-information{
+	margin-top: 80px;
+}
+#zaza{
+	padding-top: 80px;
+	padding-bottom: 40px;
+}
+.banner-shortcode-wrap{
+	background: none;
+}
+.home-5 {
+	padding: 0;
+}
+#ziz{
+	text-align: center;
+	font-size:18px;
+	color:black;
+}
+#ziz p{
+	text-align: center;
+	font-size: 18px;
+	color:black;
+}
+#ziz h2{
+	font-size: 18px;
+	color:black;
+}
+#ziz a{
+	font-size: 18px;
+	color:black;
+}
+.entry-title{
+	text-align: center;
+}
+.post-content{
+	text-align: center;
+}
+#tut{
+	text-align: center;
+	font-size: 22px;
+	color:#3f3f3f;
+	margin-top: 30px;
+}
+#tut p{
+	text-align: center;
+	font-size: 22px;
+	color:#3f3f3f;
+}
+#tut h5{
+	text-align: center;
+	font-size: 22px;
+	color:#3f3f3f;
+}
+#team_pic_wrp{
+	padding: 30px;
+}
+#funtika{
+	font-family: bpg_mrgvlovani_caps_2010;
+}
+.funtika{
+	font-family: bpg_mrgvlovani_caps_2010;
+}
+.products-in-category-tabs-wrapper .products-content .product-listing.columns-4 .product-item-wrap {
+	width: 23%;
+	margin: 5px;
+}
+.woocommerce .product-thumb, .single-product .product-thumb {{
+	height: 248px;
+}
+.section-no-margin{
+	margin-top: 30px;
+}
+.bg-6fd9ec{
+	background-color: #ffb535;
+}
+.style-1 .banner-content .banner-content-title .overlay-bg .bg-6fd9ec{
+	background-color: #ffb535;
+}
